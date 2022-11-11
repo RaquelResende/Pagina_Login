@@ -1,0 +1,64 @@
+.body {
+    background-color:rgb(76, 5, 5)
+  }
+
+  .coh1{
+    font-family: 'Times New Roman', Times, serif ;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 80px;
+  }
+
+  .form-flex{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content:center ;
+ }
+
+ .conteiner{
+    display:flex ;
+    align-items:center ;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+.menu a{
+    text-decoration: nome;
+    color: rgb(0, 0, 0);
+}
+
+.menu ul {
+    
+    padding-inline-start: 0;
+}
+
+.menu a:hover{
+color: rgb(97, 141, 179);
+}
+
+.menu li{
+display: inline;
+margin: 5px;
+}
+.w100{
+
+    width: 100%;
+}
+
+
+.p-list{
+    padding-top: 50px
+    ;
+}
+.p-h1{
+    padding-bottom: 60px;
+}
+
+.kkk {
+    color:aliceblue
+    
+    
+}
+
+.mb-10{
+    margin-bottom: 10px;
+ }
